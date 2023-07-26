@@ -16,4 +16,4 @@ const javaScriptCalculator=(num1,num2,operator)=>{
     console.log(result)
 }
 
-javaScriptCalculator(50,20,'/')
+javaScriptCalculator(50,20,'+')
